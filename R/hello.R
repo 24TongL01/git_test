@@ -14,5 +14,5 @@
 #   Test Package:              'Ctrl + Shift + T'
 
 hello <- function() {
-  print("this is a test,test")
+  print("this is a test,test,test from github website")
 }
