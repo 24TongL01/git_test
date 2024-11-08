@@ -14,5 +14,5 @@
 #   Test Package:              'Ctrl + Shift + T'
 
 hello <- function() {
-  print("Hello, world!, function operate successfully")
+  print("this is a test")
 }
